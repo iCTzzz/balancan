@@ -1608,3 +1608,25 @@ em { font-style: italic; color: var(--jungle-mid); }
 
 }
 
+.image-credits{
+  margin-top:40px;
+  padding-top:24px;
+  border-top:1px solid rgba(255,255,255,.15);
+}
+
+.image-credits h4{
+  margin-bottom:12px;
+  font-size:.9rem;
+  color:rgba(255,255,255,.9);
+}
+
+.image-credits ul{
+  list-style:none;
+  padding:0;
+}
+
+.image-credits li{
+  font-size:.75rem;
+  line-height:1.8;
+  color:rgba(255,255,255,.65);
+}
